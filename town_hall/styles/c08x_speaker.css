@@ -43,13 +43,13 @@ header img {
 main {
 	clear: left;
 }
-@media screen and (min-width: 850px) {
+@media screen and (max-width: 850px) {
 	#main {font-size: 90%;
 	      box-shadow: none;
 	      border: none; }
 	#nav_list ul li { background-image: none;}
 	#nav_list ul li a { padding: none;}
-@media screen and (min-width: 650px) {
+@media screen and (max-width: 650px) {
 	#section{ float: none;}
 	#aside{float: none;}
 }
