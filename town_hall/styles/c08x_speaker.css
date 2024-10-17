@@ -59,11 +59,13 @@ main {
 @media screen and (max-width: 650px) {
   #section {
 	  float: none;
-	  width: 20px
+	  width: 20px;
+	  clear: left;
   }
   #aside {
 	  float: none; 
-	  width: 20px
+	  width: 20px;
+	  clear: left;
   }
 }
 /* the styles for the section */
