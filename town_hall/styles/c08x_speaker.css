@@ -59,9 +59,11 @@ main {
 @media screen and (max-width: 650px) {
   #section {
 	  float: none;
+	  width: 20px
   }
   #aside {
 	  float: none; 
+	  width: 20px
   }
 }
 /* the styles for the section */
