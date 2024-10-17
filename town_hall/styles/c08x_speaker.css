@@ -52,6 +52,7 @@ main {
 @media screen and (min-width: 650px) {
 	#section{ float: none;}
 	#aside{float: none;}
+}
 /* the styles for the section */
 section {
 	width: 575px;
