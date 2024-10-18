@@ -43,31 +43,6 @@ header img {
 main {
 	clear: left;
 }
-@media screen and (max-width: 850px) {
-  #main {
-	  font-size: 90%;
-	  box-shadow: none; 
-	  border:none;
-}
-  #nav_list ul li {
-	  background-image: none;
-  }
-  #nav_list ul li a {
-	  padding: 0;
-  }
-}
-@media screen and (max-width: 650px) {
-  #section {
-	  float: none;
-	  width: 20px;
-	  clear: left;
-  }
-  #aside {
-	  float: none; 
-	  width: 20px;
-	  clear: left;
-  }
-}
 /* the styles for the section */
 section {
 	width: 575px;
@@ -154,4 +129,29 @@ footer p {
 	text-align: center;
 	color: white;
 	padding: 1em 0;
+}
+@media screen and (max-width: 850px) {
+  #main {
+	  font-size: 90%;
+	  box-shadow: none; 
+	  border:none;
+}
+  #nav_list ul li {
+	  background-image: none;
+  }
+  #nav_list ul li a {
+	  padding: 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  #section {
+	  float: none;
+	  width: 20px;
+	  clear: left;
+  }
+  #aside {
+	  float: none; 
+	  width: 20px;
+	  clear: left;
+  }
 }
