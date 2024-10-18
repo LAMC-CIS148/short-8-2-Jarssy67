@@ -1,1 +1,14 @@
-
+@media screen and (max-width: 650px) {
+  section {
+	  float: none;
+	  width: 100%;
+	  height: auto;
+	  clear: left;
+  }
+  aside {
+	  float: none; 
+	  width: 100%;
+	  height: auto;
+	  clear: left;
+  }
+}
