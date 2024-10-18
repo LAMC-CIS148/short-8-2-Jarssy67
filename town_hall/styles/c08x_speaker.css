@@ -146,12 +146,10 @@ footer p {
 @media screen and (max-width: 650px) {
   #section {
 	  float: none;
-	  width: 20px;
-	  clear: left;
+	  width: 70px;
   }
   #aside {
 	  float: none; 
-	  width: 20px;
-	  clear: left;
+	  width: 70px;
   }
 }
