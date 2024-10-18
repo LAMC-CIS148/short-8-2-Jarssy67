@@ -131,7 +131,7 @@ footer p {
 	padding: 1em 0;
 }
 @media screen and (max-width: 850px) {
-  #main {
+  main {
 	  font-size: 90%;
 	  box-shadow: none; 
 	  border:none;
@@ -144,11 +144,11 @@ footer p {
   }
 }
 @media screen and (max-width: 650px) {
-  #section {
+  section {
 	  float: none;
 	  width: 70px;
   }
-  #aside {
+  aside {
 	  float: none; 
 	  width: 70px;
   }
